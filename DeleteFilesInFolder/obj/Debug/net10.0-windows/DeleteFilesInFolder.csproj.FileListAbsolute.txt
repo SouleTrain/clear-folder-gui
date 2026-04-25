@@ -1,0 +1,16 @@
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\bin\Debug\net10.0-windows\DeleteFilesInFolder.exe
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\bin\Debug\net10.0-windows\DeleteFilesInFolder.deps.json
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\bin\Debug\net10.0-windows\DeleteFilesInFolder.runtimeconfig.json
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\bin\Debug\net10.0-windows\DeleteFilesInFolder.dll
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\bin\Debug\net10.0-windows\DeleteFilesInFolder.pdb
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\DeleteFilesInFolder.Form1.resources
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\DeleteFilesInFolder.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\DeleteFilesInFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\DeleteFilesInFolder.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\DeleteFilesInFolder.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\DeleteFilesInFolder.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\DeleteFilesInFolder.dll
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\refint\DeleteFilesInFolder.dll
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\DeleteFilesInFolder.pdb
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\DeleteFilesInFolder.genruntimeconfig.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\DeleteFilesInFolder\obj\Debug\net10.0-windows\ref\DeleteFilesInFolder.dll
